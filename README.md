@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dzaky Rahmanto</h1>
 <h3 align="center">Android Software Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/dzakdzaksss" target="blank"><img src="https://img.shields.io/twitter/follow/dzakdzaksss?logo=twitter&style=for-the-badge" alt="dzakdzaksss" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dzakdzaksss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dzakdzaksss" height="30" width="40" /></a>
