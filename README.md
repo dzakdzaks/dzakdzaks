@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dzaky Rahmanto</h1>
 
-- 🔭 I’m currently working on [Dipay.id](https://dipay.id/)
-
 - 📫 How to reach me **dzakyrahmanto@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
